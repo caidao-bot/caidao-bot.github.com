@@ -456,6 +456,8 @@ a.external:hover {
   color: #fff;
   font-size: 14px;
 }
+
+
 #particles-js {
   width: 100%;
   height: 100%;
@@ -464,12 +466,7 @@ a.external:hover {
   -moz-background-size: 20%;
   background-size: 20%;
   background-position: 50% 50%;
-  background: #38658c;
-  background: -webkit-radial-gradient(top left, #5d3571, #38658c);
-  background: -moz-radial-gradient(top left, #5d3571, #38658c);
-  background: -o-radial-gradient(top left, #5d3571, #38658c);
-  background: -ms-radial-gradient(top left, #5d3571, #38658c);
-  background: radial-gradient(to bottom right, #5d3571, #38658c);
+  background: #2196f3;
 }
 #disqus_container {
   font-size: 12px;

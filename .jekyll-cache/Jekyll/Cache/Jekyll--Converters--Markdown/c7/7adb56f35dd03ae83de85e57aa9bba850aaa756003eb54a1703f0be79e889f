@@ -1,0 +1,32 @@
+I"�<body>
+  <div class="index-wrapper">
+    <div class="aside">
+      <div class="info-card">
+        <h1>菜刀</h1>
+        
+        <a href="https://github.com/caidao-bot/dist/wiki" class="button button-action button-pill">
+        下 载</a>
+       
+      </div>
+      <div id="particles-js"></div>
+    </div>
+
+    <div class="index-content">
+      <ul>
+<h3>简单易用、强大灵活</h3>
+<li>既然你来到这里，应该是你的朋友觉得菜刀不错推荐给你</li>
+<li>我们不搞太复杂的营销，踏踏实实的维护和优化，一切为大家省心省力稳定使用</li>
+<li>单账户多设备可以同时使用，充分享用带宽和流量，最大化你和同事、朋友的付费账号价值</li>
+<li>同时支持多个靠谱的网络协议和引擎混合切换，智能路由自动选择最佳联通性和速度</li>
+<h3>下载地址</h3>
+<li> Windows : &nbsp;&nbsp;<a href="https://github.com/caidao-bot/dist/raw/master/setup/caidao_win.zip">点此下载</a> &nbsp;&nbsp;<a href="https://yadi.sk/d/JZsyMUIV0HH07A" target="_blank">备用下载地址</a>&nbsp;&nbsp; (支持Win7 / Win8 / Win10，64位系统)
+</li>
+<li> Mac     : &nbsp;&nbsp;<a href="https://github.com/caidao-bot/dist/raw/master/setup/caidao_mac.zip">点此下载</a> &nbsp;&nbsp; <a href="https://yadi.sk/d/VLxi5rfDX072cQ" target="_blank">备用下载地址</a>&nbsp;&nbsp;(支持MacOS 10.12​以上)
+</li>   
+    
+      </ul>
+    </div>
+  </div>
+</body>
+
+:ET

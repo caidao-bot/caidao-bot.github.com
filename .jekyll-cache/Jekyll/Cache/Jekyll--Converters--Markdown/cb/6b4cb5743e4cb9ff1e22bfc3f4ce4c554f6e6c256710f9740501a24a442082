@@ -1,0 +1,24 @@
+I"<body>
+  <div class="index-wrapper">
+    <div class="aside">
+      <div class="info-card">
+        <h1>菜刀</h1>
+        
+        <a href="https://github.com/caidao-bot/dist/wiki" class="button button-action button-pill">
+        下 载</a>
+       
+      </div>
+      <div id="particles-js"></div>
+    </div>
+
+    <div class="index-content">
+      <ul class="artical-list">
+        <li>
+          <a href="" class="title"></a>
+          <div class="title-desc"></div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</body>
+:ET
