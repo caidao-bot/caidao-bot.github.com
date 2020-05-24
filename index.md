@@ -6,23 +6,21 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-        <h1>BeiYuu</h1>
-        <a href="http://weibo.com/beiyuu/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
-        <a href="http://www.douban.com/people/beiyuu/" target="_blank"><img src="http://www.douban.com/favicon.ico" alt="" width="22"/></a>
-        <a href="http://instagram.com/beiyuu/" target="_blank"><img src="http://d36xtkk24g8jdx.cloudfront.net/bluebar/00c6602/images/ico/favicon.ico" alt="" width="22"/></a>
+        <h1>
+        <img src="images/githubpages/icon.png" width="96">
+        </h1>
+        
+        <a href="https://github.com/caidao-bot/dist/wiki" class="button button-action button-pill">
+        下 载</a>
+       
       </div>
       <div id="particles-js"></div>
     </div>
 
-    <div class="index-content">
-      <ul class="artical-list">
-        {% for post in site.categories.blog %}
-        <li>
-          <a href="{{ post.url }}" class="title">{{ post.title }}</a>
-          <div class="title-desc">{{ post.description }}</div>
-        </li>
-        {% endfor %}
-      </ul>
+    <div class="index-content" style="padding: 40px;">
+     <img align="center" width="90%" src="images/githubpages/ui.png" style="border-left: 1px solid #eee; border-right: 1px solid #eee; border-bottom: 1px solid #ccc;">
     </div>
   </div>
 </body>
+
+
